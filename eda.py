@@ -29,3 +29,9 @@ plt.show()
 nonstroke_df = df.loc[df['stroke'] == 0]
 nonstroke_df[numerical_v].hist(figsize=(20, 10), layout=(2, 4))
 plt.show()
+
+
+
+#test
+
+#test1
